@@ -1,8 +1,6 @@
 # GreenboneLauncher
 Bootstrap Windows and setup and launch greenbone scanner
 
-Here is a comprehensive, production-ready README.md for your hybrid Batch/PowerShell orchestration script. It includes all functionalities from the code blocks you provided.
-------------------------------
 ## Windows Vulnerability Scanning Orchestration Script
 This dual-mode script automates the configuration of a Windows host to prepare it for vulnerability scanning (via Nessus or OpenVAS) and completely rolls back those changes to secure the system once scanning is complete. It bridges host-level Windows configuration with containerized OpenVAS deployment inside Windows Subsystem for Linux (WSL).
 ## 🚢 Overview
